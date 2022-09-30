@@ -1,0 +1,15 @@
+Package: opre
+Title: A package for reinsurance-related works
+Version: 0.0.0.9000
+Authors@R: 
+    person("Charles", "Pan", , "addnox@gmail.com", role = c("aut", "cre"))
+Description: A collection of functions and classes (mainly R6) for reinsurance analytical work (e.g. actuarial, modeling, data cleaning and etc.)
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    data.table
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
