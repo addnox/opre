@@ -8,6 +8,14 @@
 \description{
 A collection of functions and classes (mainly R6) for reinsurance analytical work (e.g. actuarial, modeling, data cleaning and etc.)
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/addnox/opre}
+  \item Report bugs at \url{https://github.com/addnox/opre/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Charles Pan \email{addnox@gmail.com}
 
