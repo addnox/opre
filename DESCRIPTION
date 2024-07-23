@@ -1,0 +1,16 @@
+Package: opre
+Title: An R toolkit for reinsurance loss modeling and pricing
+Version: 0.0.0.9000
+Authors@R: 
+    person("Charles", "Pan", , "addnox@gmail.com", role = c("aut", "cre"))
+Description: `opre` is an R toolkit designed to accelarate modeling and pricing process in reinsurance transactions
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    data.table
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
