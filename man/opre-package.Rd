@@ -6,7 +6,15 @@
 \alias{opre-package}
 \title{opre: An R toolkit for reinsurance loss modeling and pricing}
 \description{
-`opre` is an R toolkit designed to accelarate modeling and pricing process in reinsurance transactions
+`opre` is an R toolkit designed to accelerate modeling and pricing process in reinsurance transactions
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/addnox/opre}
+  \item Report bugs at \url{https://github.com/addnox/opre/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Charles Pan \email{addnox@gmail.com}
